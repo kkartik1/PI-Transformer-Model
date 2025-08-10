@@ -1,0 +1,550 @@
+Revenue Code,Short Description,Long Description
+1,Total Charge,Total Charge
+22,SNF PPS Claim - TOB 21X,Health Insurance Prospective Payment System (HIPPS) - Skilled Nursing Facility
+23,HH PPS Claim - TOB 32X & 33X,Health Insurance Prospective Payment System (HIPPS) - Home Health
+24,IP Rehab PPS,Health Insurance Prospective Payment System (HIPPS) - Inpatient Rehabilitation Facility
+100,R&B - All Inclusive - Plus Ancillary,All Inclusive Rate - Room and Board Plus Ancillary
+101,R&B - All Inclusive,All Inclusive Rate - Room and Board
+110,R&B - Private - Gen,Room & Board - Private (One Bed) - General Classification
+111,R&B - Private - Med/Surg/GYN,Room & Board - Private (One Bed) - Medical/Surgical/GYN
+112,R&B - Private - OB,Room & Board - Private (One Bed) - Obstetrics (OB)
+113,R&B - Private - Pedi,Room & Board - Private (One Bed) - Pediatric
+114,R&B - Private - Psych,Room & Board - Private (One Bed) - Psychiatric
+115,R&B - Private - Hospice,Room & Board - Private (One Bed) - Hospice
+116,R&B - Private - Detox,Room & Board - Private (One Bed) - Detoxification
+117,R&B - Private - Oncology,Room & Board - Private (One Bed) - Oncology
+118,R&B - Private - Rehab,Room & Board - Private (One Bed) - Rehabilitation
+119,R&B - Private - Other,Room & Board - Private (One Bed) - Other
+120,R&B - Semiprivate - General,Room & Board - Semi-private (Two Beds) - General Classification
+121,R&B - Semiprivate - Med/Surg/Gyn,Room & Board - Semi-private (Two Beds) - Medical/Surgical/GYN
+122,R&B - Semiprivate - OB,Room & Board - Semi-private (Two Beds) - Obstetrics (OB)
+123,R&B - Semiprivate - Pedi,Room & Board - Semi-private (Two Beds) - Pediatric
+124,R&B - Semiprivate - Psych,Room & Board - Semi-private (Two Beds) - Psychiatric
+125,R&B - Semiprivate - Hospice,Room & Board - Semi-private (Two Beds) - Hospice
+126,R&B - Semiprivate - Detox,Room & Board - Semi-private (Two Beds) - Detoxification
+127,R&B - Semiprivate - Oncology,Room & Board - Semi-private (Two Beds) - Oncology
+128,R&B - Semiprivate - Rehab,Room & Board - Semi-private (Two Beds) - Rehabilitation
+129,R&B - Semiprivate - Other,Room & Board - Semi-private (Two Beds) - Other
+130,"R&B - Semiprivate, 3 & 4 beds - Gen",Room & Board - Three and Four Beds - General Classification
+131,R&B - SP_MS/Surg/GYN/ 3&4 beds,Room & Board - Three and Four Beds - Medical/Surgical/GYN
+132,R&B - SP_OB/ 3 & 4 beds,Room & Board - Three and Four Beds - Obstetrics (OB)
+133,R&B - SP_Peds/ 3 & 4 beds,Room & Board - Three and Four Beds - Pediatric
+134,R&B - SP_Psych/ 3 & 4 beds,Room & Board - Three and Four Beds - Psychiatric
+135,R&B - SP_Hospice/ 3& 4 beds,Room & Board - Three and Four Beds - Hospice
+136,R&B - SP_Detox/ 3 & 4 beds,Room & Board - Three and Four Beds - Detoxification
+137,R&B - SP_Oncology/ 3 & 4 beds,Room & Board - Three and Four Beds - Oncology
+138,R&B - SP_ Rehab/ 3 & 4 beds,Room & Board - Three and Four Beds - Rehabilitation
+139,"R&B - SP_Other, 3 & 4 beds",Room & Board - Three and Four Beds - Other
+140,R&B - Private/Deluxe_Gen,Room & Board - Deluxe Private - General Classification
+141,R&B - PD_MS/Surg/GYN,Room & Board - Deluxe Private - Medical/Surgical/GYN
+142,R&B - PDeluxe_OB,Room & Board - Deluxe Private - Obstetrics (OB)
+143,R&B - PD_Pedi,Room & Board - Deluxe Private - Pediatric
+144,R&B - PD_Psych,Room & Board - Deluxe Private - Psychiatric
+145,R&B - PD_Hospice,Room & Board - Deluxe Private - Hospice
+146,R&B - PD_Detox,Room & Board - Deluxe Private - Detoxification
+147,R&B - PD_Oncology,Room & Board - Deluxe Private - Oncology
+148,R&B - PD_ Rehab,Room & Board - Deluxe Private - Rehabilitation
+149,R&B - Other Private Deluxe,Room & Board - Deluxe Private - Other
+150,"R&B - Ward, General",Room & Board - Ward - General Classification
+151,R&B - Med-sur-Gy/Ward,Room & Board - Ward - Medical/Surgical/GYN
+152,R&B - OB/Ward,Room & Board - Ward - Obstetrics (OB)
+153,R&B - Peds/Ward,Room & Board - Ward - Pediatrics
+154,R&B - Psych/Ward,Room & Board - Ward - Psychiatric
+155,R&B - Hospice/Ward,Room & Board - Ward - Hospice
+156,R&B - Detox/Ward,Room & Board - Ward - Detoxification
+157,R&B - Oncology/Ward,Room & Board - Ward - Oncology
+158,R&B - Rehab/Ward,Room & Board - Ward - Rehabilitation
+159,R&B - Other/Ward,Room & Board - Ward - Other
+160,R&B - Other_Gen,Room & Board - Other - General Classification
+161,ROOM & BOARD - HOSPITAL AT HOME,ROOM & BOARD - HOSPITAL AT HOME
+164,R&B - Sterile Environment,Room & Board - Other - Sterile Environment
+167,R&B - Self Care,Room & Board - Other - Self Care
+169,R&B - Other,Room & Board - Other - Other
+170,Nursery - General,Nursery - General Classification
+171,Newborn-Level I,Nursery - Newborn - Level I
+172,Newborn-Level II,Nursery - Newborn - Level II
+173,Newborn-Level III,Nursery - Newborn - Level III
+174,Newborn-Level IV,Nursery - Newborn - Level IV
+179,Nursery/Other,Nursery - Other
+180,LOA - General,Leave of Absence - General Classification
+182,LOA_Pt Convenience,Leave of Absence - Patient Convenience
+183,LOA_Therapeutic,Leave of Absence - Therapeutic Leave
+185,LOA_Hospitalization,Leave of Absence - Nursing Home (for Hospitalization)
+189,LOA_Other,Leave of Absence - Other
+190,Subacute - General,Subacute Care - General Classification
+191,Subacute/ Level I,Subacute Care - Level I
+192,Subacute/ Level II,Subacute Care - Level II
+193,Subacute/ Level III,Subacute Care - Level III
+194,Subacute/ Level IV,Subacute Care - Level IV
+199,Subacute/ Other,Subacute Care - Other
+200,ICU - General,Intensive Care Unit - General Classification
+201,ICU/ Surgical,Intensive Care Unit - Surgical
+202,ICU/ Medical,Intensive Care Unit - Medical
+203,ICU/ Peds,Intensive Care Unit - Pediatric
+204,ICU/ Psych,Intensive Care Unit - Psychiatric
+206,ICU/ Intermediate,Intensive Care Unit - Intermediate ICU
+207,ICU/ Burn Care,Intensive Care Unit - Burn Care
+208,ICU/ Trauma,Intensive Care Unit - Trauma
+209,ICU/ Other,Intensive Care Unit - Other
+210,CCU - General,Coronary Care Unit - General Classification
+211,CCU/ MI,Coronary Care Unit - Myocardial Infarction
+212,CCU/ Pulmonary,Coronary Care Unit - Pulmonary Care
+213,CCU/ Transplant,Coronary Care Unit - Heart Transplant
+214,CCU/ Intermediate,Coronary Care Unit - Intermediate CCU
+219,CCU/ Other,Coronary Care Unit - Other
+220,Special Chgs_Gen,Special Charges - General Classification
+221,Admit Chg,Special Charges - Admission Charge
+222,Tech Suppt Chg,Special Charges - Technical Support Charge
+223,UR Chg,Special Charges - U.R. Service Charge
+224,Late DC/Med Nec,"Special Charges - Late Discharge, Medically Necessary"
+229,Othr Spec Chg,Special Charges - Other
+230,Nursing Increm/ Gen,Incremental Nursing Charge - General Classification
+231,Nurs Incr/Nursery,Incremental Nursing Charge - Nursery
+232,Nurs Incr/OB,Incremental Nursing Charge - OB
+233,Nurs Incr/ ICU,Incremental Nursing Charge - ICU
+234,Nurs Incr/ CCU,Incremental Nursing Charge - CCU
+235,Nurs Incr/ Hospice,Incremental Nursing Charge - Hospice
+239,Nur Incr/ Other,Incremental Nursing Charge - Other
+240,All Incl Ancillary,All Inclusive Ancillary - General Classification
+241,InclAncillary_Basic,All Inclusive Ancillary - Basic
+242,Incl Ancillary_Compreh,All Inclusive Ancillary - Comprehensive
+243,Incl Ancillary_Specialty,All Inclusive Ancillary - Specialty
+249,All Incl Ancillary/ Other,All Inclusive Ancillary - Other
+250,Drugs_Gen,Pharmacy - General Classification
+251,Drugs_ Generic,Pharmacy - Generic Drugs
+252,Drugs_Nongeneric,Pharmacy - Non-generic Drugs
+253,Drugs/Take Home,Pharmacy - Take Home Drugs
+254,Drugs/ Incid to Dx,Pharmacy - Drugs Incident To Other Diagnostic Services
+255,Drugs/ Incident Rad,Pharmacy - Drugs Incident To Radiology
+256,Drugs/ Experim,Pharmacy - Experimental Drugs
+257,Drugs/ Nonscript,Pharmacy - Nonprescription
+258,IV Solution,Pharmacy - IV Solutions
+259,Drugs - Other,Pharmacy - Other
+260,IV Tx_Gen,IV Therapy - General Classification
+261,IV Tx_ Infsn Pump,IV Therapy - Infusion Pump
+262,IV Tx_Pharm,IV Therapy/Pharmacy Services
+263,IV Tx_Drug Deliv,IV Therapy/Drug/Supply Delivery
+264,IV Tx_Supplies,IV Therapy/Supplies
+269,IV Tx_Other,IV Therapy - Other
+270,Med-Surg Supplies/Gen,Medical/Surgical Supplies and Devices - General Classification
+271,Non-Sterile Supply,Medical/Surgical Supplies and Devices - Non-sterile Supply
+272,Sterile Supply,Medical/Surgical Supplies and Devices - Sterile Supply
+273,Take Home Supply,Medical/Surgical Supplies and Devices - Take Home Supplies
+274,Prosthetics_Orthotics,Medical/Surgical Supplies and Devices - Prosthetic/Orthotic Devices
+275,Pacemaker,Medical/Surgical Supplies and Devices - Pacemaker
+276,IOL,Medical/Surgical Supplies and Devices - Intraocular Lens
+277,O2_Take Home,Medical/Surgical Supplies and Devices - Oxygen - Take Home
+278,Supply_Implants,Medical/Surgical Supplies and Devices - Other Implants
+279,Supply_Other,Medical/Surgical Supplies and Devices - Other
+280,Oncology_Gen,Oncology - General Classification
+289,Oncology_Other,Oncology - Other
+290,DME_Gen,Durable Medical Equipment (other than renal) - General Classification
+291,DME_Rental,Durable Medical Equipment (other than renal) - Rental
+292,DME_New Purchase,Durable Medical Equipment (other than renal) - Purchase of new DME
+293,DME_Used Purchase,Durable Medical Equipment (other than renal) - Purchase of used DME
+294,DME_Supplies/Drugs,Durable Medical Equipment (other than renal) - Supplies/Drugs for DME
+299,DME_Other,Durable Medical Equipment (other than renal) - Other
+300,Lab - General,Laboratory - General Classification
+301,Lab - Chemistry,Laboratory - Chemistry
+302,Lab - Immunology,Laboratory - Immunology
+303,Lab - Home Rental,Laboratory - Renal Patient (Home)
+304,Lab - NR Dialysis,Laboratory - Non-routine Dialysis
+305,Lab - Hematology,Laboratory - Hematology
+306,Lab - Bact- Micro,Laboratory - Bacteriology & Microbiology
+307,Lab - Urology,Laboratory - Urology
+309,Lab - Other,Laboratory - Other
+310,Lab Path - General,Laboratory Pathology - General Classification
+311,Lab Path - Cytology,Laboratory Pathology - Cytology
+312,Lab Path - Histology,Laboratory Pathology - Histology
+314,Lab Path - Biopsy,Laboratory Pathology - Biopsy
+319,Lab Path - Other,Laboratory Pathology - Other
+320,Rad - Dx - General,Radiology - Diagnostic - General Classification
+321,Rad - Dx - Angiocardiography,Radiology - Diagnostic - Angiocardiography
+322,Rad - Dx - Arthrography,Radiology - Diagnostic - Arthrography
+323,Rad - Dx - Arteriography,Radiology - Diagnostic - Arteriography
+324,Rad - Dx - C XR,Radiology - Diagnostic - Chest X-Ray
+329,Rad - Dx - Other,Radiology - Diagnostic - Other
+330,Rad - Therapeutic - General,Radiology - Therapeutic and/or Chemotherapy Administration - General Classification
+331,Chemo - Injected,Radiology - Therapeutic - Chemotherapy Administration - Injected
+332,Chemo - Oral,Radiology - Therapeutic - Chemotherapy Administration - Oral
+333,Radiation Therapy,Radiology - Therapeutic - Radiation Therapy
+335,Chemo - IV,Radiology - Therapeutic - Chemotherapy Administration - IV
+339,Rad - Therapeutic - Other,Radiology - Therapeutic - Other
+340,Nuclear Med - General,Nuclear Medicine - General Classification
+341,Nuclear Med - Diagnostic Procedures,Nuclear Medicine - Diagnostic Procedures
+342,Nuclear Med - Therapeutic Procedures,Nuclear Medicine - Therapeutic Procedures
+343,Diagnostic Radiopharmaceuticals,Nuclear Medicine - Diagnostic Radiopharmaceuticals
+344,Therapeutic Radiopharmaceuticals,Nuclear Medicine - Therapeutic Radiopharmaceuticals
+349,Nuclear Med - Other,Nuclear Medicine - Other
+350,CT Scan - General,CT Scan - General Classification
+351,CT Scan - Head,CT Scan - Head Scan
+352,CT Scan - Body,CT Scan - Body Scan
+359,CT Scan - Other,CT Scan - Other
+360,OR - General,Operating Room Services - General Classification
+361,OR - Minor,Operating Room Services - Minor Surgery
+362,"OR - Organ Transplant, not Kidney",Operating Room Services - Organ transplant - Other Than Kidney
+367,OR - Kidney Transplant,Operating Room Services - Kidney Transplant
+369,OR - Other,Operating Room Services - Other
+370,Anesthesia - General,Anesthesia - General Classification
+371,Anesthesia - Incident to Radiology,Anesthesia - Incident to Radiology
+372,Anesthesia - Incident to Other Dx,Anesthesia - Incident to Other Diagnostic Services
+374,Anesthesia - Acupuncture,Anesthesia - Acupuncture
+379,Anesthesia - Other,Anesthesia - Other
+380,Blood - General,Blood and Blood Components - General Classification
+381,Blood - Packed Red Cells,Blood and Blood Components - Packed Red Cells
+382,Blood - Whole Blood,Blood and Blood Components - Whole Blood
+383,Blood - Plasma,Blood and Blood Components - Plasma
+384,Blood - Platelets,Blood and Blood Components - Platelets
+385,Blood - Leukocytes,Blood and Blood Components - Leukocytes
+386,Blood - Other Components,Blood and Blood Components - Other Blood Components
+387,Blood - Other Derivatives (Cryopricipitates),Blood and Blood Components - Other Derivatives (Cryoprecipitates)
+389,Blood - Other Blood,Blood and Blood Components - Other
+390,Blood/Components - General Classification,"Administration, Processing, and Storage for Blood and Blood Components - General Classification"
+391,"Blood Administration (e.g., Transfusion)","Administration, Processing, and Storage for Blood and Blood Components - Administration (e.g., Transfusion)"
+392,Processing and Storage,"Administration, Processing, and Storage for Blood and Blood Components - Processing and Storage"
+399,Blood/Components - Other Processing & Storage,"Administration, Processing, and Storage for Blood and Blood Components - Other Blood Handling"
+400,Imaging Service - General,Other Imaging Services - General Classification
+401,Dx Mammography,Other Imaging Services - Diagnostic Mammography
+402,Ultrasound,Other Imaging Services - Ultrasound
+403,Screening Mammography,Other Imaging Services - Screening Mammography
+404,Positron Emission (PET) Scan,Other Imaging Services - Positron Emission Tomography
+409,Other Imaging,Other Imaging Services - Other
+410,Respiratory Service - General,Respiratory Services - General Classification
+412,Resp - Inhalation Service,Respiratory Services - Inhalation Services
+413,Resp - Hyperbaric O2 (HBO) Therapy,Respiratory Services - Hyperbaric Oxygen Therapy
+419,Respiratory Service - Other,Respiratory Services - Other
+420,PT - General,Physical Therapy - General Classification
+421,PT - Visit Charge,Physical Therapy - Visit Charge
+422,PT - Hourly Charge,Physical Therapy - Hourly Charge
+423,PT - Group Rate,Physical Therapy - Group Rate
+424,PT - Eval or Re-evaluation,Physical Therapy - Evaluation or Re-evaluation
+429,PT - Other,Physical Therapy - Other
+430,OT - General,Occupational Therapy - General Classification
+431,OT - Visit Charge,Occupational Therapy - Visit Charge
+432,OT - Hourly Charge,Occupational Therapy - Hourly Charge
+433,OT - Group Rate,Occupational Therapy - Group Rate
+434,OT - Eval or Re-evaluation,Occupational Therapy - Evaluation or Reevaluation
+439,OT - Other,Occupational Therapy - Other
+440,Speech Pathol - General,Speech Therapy - Language Pathology - General Classification
+441,Speech Path - Visit Charge,Speech Therapy - Language Pathology - Visit Charge
+442,Speech Path - Hourly Charge,Speech Therapy - Language Pathology - Hourly Charge
+443,Speech Path - Group Rate,Speech Therapy - Language Pathology - Group Rate
+444,Speech Path - Eval or Re-evaluation,Speech Therapy - Language Pathology - Evaluation or Reevaluation
+449,Speech Path - Other,Speech Therapy - Language Pathology - Other
+450,ER - General,Emergency Room - General Classification
+451,ER - EMTALA,Emergency Room - EMTALA Emergency Medical Screening Services
+452,ER > EMTALA,Emergency Room - Beyond EMTALA Screening
+456,ER - Urgicare,Emergency Room - Urgent Care
+459,ER - Other,Emergency Room - Other
+460,Pulmonary Function - General,Pulmonary Function - General Classification
+469,Pulmonary Function - Other,Pulmonary Function - Other
+470,Audiology - General,Audiology - General Classification
+471,Audiology - Diagnostic,Audiology - Diagnostic
+472,Audiology - Treatment,Audiology - Treatment
+479,Audiology_Other,Audiology - Other
+480,Cardiology - General,Cardiology - General Classification
+481,Cardiology - Cardiac Cath lab,Cardiology - Cardiac Cath Lab
+482,Cardiology - Stress Test,Cardiology - Stress Test
+483,Cardiology - Echocardiology,Cardiology - Echocardiology
+489,Cardiology - Other,Cardiology - Other
+490,Ambulatory Surgery - General,Ambulatory Surgical Care - General Classification
+499,Ambulatory Surgery - Other,Ambulatory Surgical Care - Other
+500,Outpatient Services - General,Outpatient Services - General Classification
+509,Outpatient Services - Other,Outpatient Services - Other
+510,Clinic - General,Clinic - General Classification
+511,Clinic - Chronic Pain Center,Clinic - Chronic Pain Center
+512,Clinic - Dental,Clinic - Dental
+513,Clinic - Psychiatric,Clinic - Psychiatric
+514,Clinic - OB-GYN,Clinic - OB-GYN
+515,Clinic - Pediatric,Clinic - Pediatric
+516,Clinic - Urgent Care,Clinic - Urgent Care
+517,Clinic - Family Practice,Clinic - Family Practice
+519,Clinic - Other,Clinic - Other
+520,Freestanding Clinic - General,Free-Standing Clinic - General Classification
+521,Freestanding Clinic - RHC/FQHC - Clinic,Free-Standing Clinic - Clinic visit by member to RHC/FQHC
+522,Freestanding Clinic - RHC/FQHC- Home,Free-Standing Clinic - Home visit by RHC/FQHC practitioner
+523,Free-Standing Clinic - Family Practice Clinic,Free-Standing Clinic - Family Practice
+524,RHC/FQHC Visit - SNF (Part A),Free-Standing Clinic - Visit by RHC/FQHC practitioner to a member in a SNF or Skilled Swing Bed in a covered Part A stay
+525,RHC/FQHC Visit - SNF (OTHER)/NF/ICF/MR,Free-Standing Clinic - Visit by RHC/FQHC practitioner to a member in a SNF (not in a covered Part A stay) or NF or ICF MR or other residential facility
+526,Free-Standing Clinic - Urgent Care,Free-Standing Clinic - Urgent Care
+527,RHC/FQHC Visiting Nurse Service(s) - Home (HSA),Free-Standing Clinic - RHC/FQHC Visiting Nurse Service(s) to a member's home when in a home health shortage area
+528,RHC/FQHC Visit - Other Site,"Free-Standing Clinic - Visit by RHC/FQHC practitioner to other non RHC/FQHC site (e.g., scene of accident)"
+529,Free-Standing Clinic - Other Freestanding,Free-Standing Clinic - Other
+530,Osteopathic - General,Osteopathic Services - General Classification
+531,Osteopathic Therapy,Osteopathic Services - Osteopathic Therapy
+539,Osteopathic - Other,Osteopathic Services - Other
+540,Ambulance - General,Ambulance - General Classification
+541,Ambulance - Supplies,Ambulance - Supplies
+542,Ambulance - Medical Transport,Ambulance - Medical Transport
+543,Ambulance - Heart Mobile,Ambulance - Heart Mobile
+544,Ambulance - Oxygen,Ambulance - Oxygen
+545,Ambulance - Air Ambulance,Ambulance - Air Ambulance
+546,Ambulance - Neonatal Services,Ambulance - Neonatal Ambulance
+547,Ambulance - Pharmacy,Ambulance - Pharmacy
+548,Ambulance - Telephone EKG Transmission,Ambulance - EKG Transmission
+549,Ambulance - Other,Ambulance - Other
+550,Skilled Nursing - General,Skilled Nursing - General Classification
+551,Skilled Nursing - Visit Charge,Skilled Nursing - Visit Charge
+552,Skilled Nursing - Hourly Charge,Skilled Nursing - Hourly Charge
+559,Skilled Nursing - Other,Skilled Nursing - Other
+560,Med Social Services - General,Home Health (HH) - Medical Social Services - General Classification
+561,Med Soc Servs/Visit,Home Health (HH) - Medical Social Services - Visit Charge
+562,Med Soc Servs/Hour,Home Health (HH) - Medical Social Services - Hourly Charge
+569,Med Soc Servs/Other,Home Health (HH) - Medical Social Services - Other
+570,Aide/Home Health,Home Health (HH) Aide - General Classification
+571,Aide/Home Hlth/Visit,Home Health (HH) Aide - Visit Charge
+572,Aide/Home Hlth/Hour,Home Health (HH) Aide - Hourly Charge
+579,Aide/Home Hlth/Other,Home Health (HH) Aide - Other
+580,HH visit - General,Home Health (HH) - Other Visits - General Classification
+581,HH Visit Chg,Home Health (HH) - Other Visits - Visit Charge
+582,HH Hourly CHG,Home Health (HH) - Other Visits - Hourly Charge
+583,HH Assessment,Home Health (HH) - Other Visits - Assessment
+589,HH Visit - Other,Home Health (HH) - Other Visits - Other
+590,HH Service Unit - Gen,Home Health (HH) Units of Service - General Classification
+600,O2/Home Health,Home Health (HH) - Oxygen - General Classification
+601,Os/Stat Equip/Suppl/Cont,Home Health (HH) - Oxygen - Stat Equip/Supply/Content
+602,O2/Stat Equip/Under 1 LPM,Home Health (HH) - Oxygen - Stat Equip/Supply<1 LPM
+603,O2/Stat Equip/Over 4 LPM,Home Health (HH) - Oxygen - Stat Equip/Supply>4 LPM
+604,O2/Portable Add-on,Home Health (HH) - Oxygen - Portable Add-on
+609,"HH - Oxygen, Other",Home Health (HH) - Oxygen - Other
+610,MRT - General (Magnetic Resonance Technology),Magnetic Resonance Technology (MRT) - General Classification
+611,MRI - Brain (including Brainstem),Magnetic Resonance Technology (MRT) - Brain/Brainstem
+612,MRI - Spinal Cord (including Spine),Magnetic Resonance Technology (MRT) - Spinal Cord/Spine
+614,MRI - Other (Magnetic Resonance Imaging),Magnetic Resonance Technology (MRT) - MRI - Other
+615,MRA - Head and Neck (Magnetic Resonance Angiography),Magnetic Resonance Technology (MRT) - MRA - Head and Neck
+616,MRA - Lower Extremities (Magnetic Resonance Angiography),Magnetic Resonance Technology (MRT) - MRA - Lower Extremities
+618,MRA - Other (Magnetic Resonance Angiography),Magnetic Resonance Technology (MRT) - MRA - Other
+619,MRT - Other (Magnetic Resonance Technology),Magnetic Resonance Technology (MRT) - Other
+621,Med/Surg Supplies - Incident to Rad,Medical Surgical Supplies - Incident to Radiology
+622,Med/Surg Supplies - Incident to Other Dx,Medical Surgical Supplies - Incident to Other Diagnostic Services
+623,Med/Surg Supplies - Surgical Dressings,Medical Surgical Supplies - Surgical Dressings
+624,MS Supplies - FDA Investigational Device,Medical Surgical Supplies - FDA Investigational Devices
+630,Drugs Req Specific ID - General,Drugs requiring specific identification-general classification
+631,Drugs - Single Source Drug,Pharmacy - Single Source Drug
+632,Drugs - Multiple Source Drug,Pharmacy - Multiple Source Drug
+633,Drugs - Restrictive Prescription,Pharmacy - Restrictive Prescription
+634,"Drugs - EPO <10,000 units","Pharmacy - Erythropoietin (EPO) less than 10,000 units"
+635,"Drugs - EPO 10,000 units or >","Pharmacy - Erythropoietin (EPO) 10,000 or more units"
+636,Drugs/ Detailed Coding Required,Pharmacy - Drugs Requiring Detailed Coding
+637,Self-Administrable Drugs,Pharmacy - Self-administrable Drugs
+640,Home IV Therapy - General,Home IV Therapy Services - General Classification
+641,Home IV Tx -NR Central Line,"Home IV Therapy Services - Non-routine Nursing, Central Line"
+642,Home IV Site Care - Central Line,"Home IV Therapy Services - IV Site Care, Central Line"
+643,Home IV Start/Chg Periph Line,"Home IV Therapy Services - IV Start/Care, Peripheral Line"
+644,"Home IV, NR Periph Line","Home IV Therapy Services - Non-routine Nursing, Peripheral Line"
+645,Home IV Train - Pt/CG Central L,"Home IV Therapy Services - Training, Patient/Caregiver, Central Line"
+646,Home IV Train - D Pt Central L,"Home IV Therapy Services - Training, Disabled Patient, Central Line"
+647,Home IV Train - Pt/CG Periph L,"Home IV Therapy Services - Training, Patient/Caregiver, Peripheral Line"
+648,Home IV Train Disabl Pt - Periph L,"Home IV Therapy Services - Training, Disabled Patient, Peripheral Line"
+649,Other Home IV Therapy Svc,Home IV Therapy Services - Other
+650,Hospice - General,Hospice Services - General Classification
+651,Hospice - Routine Home Care,Hospice Services - Routine Home Care
+652,Hospice - Continuous Home Care,Hospice Services - Continuous Home Care
+655,Hospice - IP Respite,Hospice Services - Inpatient Respite Care
+656,Hospice - IP Non-Respite,Hospice Services - General Inpatient Care (non-respite)
+657,Hospice - Physician Service,Hospice Services - Physician Services
+658,Hospice - R&B - Nursing Facility,Hospice Services - Hospice Room & Board - Nursing Facility
+659,Hospice/Other,Hospice Services - Other
+660,NH Respite Care - General Class,Respite Care - General Classification
+661,NH Respite - Hourly Chg/Nursing,Respite Care - Hourly Charge/Nursing
+662,NH Respite - Aid/Hmkr/Companion Hourly Chg,Respite Care - Hourly Charge/Aide/Homemaker/Companion
+663,NH Respite Care - Daily Charge,Respite Care - Daily Respite Charge
+669,NH Respite - Other Category,Respite Care - Other
+670,OP Spec Residence/General,Outpatient Special Residence Charges - General Classification
+671,OP spec Residence/Hosp Based,Outpatient Special Residence Charges - Hospital Owned
+672,OP Spec Residence/Contracted,Outpatient Special Residence Charges - Contracted
+679,OP Spec Residence/Other,Outpatient Special Residence Charges - Other
+681,Trauma Response - Level I,Trauma Response - Level I
+682,Trauma Response - Level II,Trauma Response - Level II
+683,Trauma Response - Level III,Trauma Response - Level III
+684,Trauma Response - Level IV,Trauma Response - Level IV
+689,Trauma Response - Other,Trauma Response - Other
+690,Pre-hospice,Pre-hospice/Palliative Care Services - General Classification
+691,Pre-hospice/Visit,Pre-hospice/Palliative Care Services - Visit Charge
+692,Pre-hospice/Hour,Pre-hospice/Palliative Care Services - Hourly Charge
+693,Pre-hospice/Eval,Pre-hospice/Palliative Care Services - Evaluation
+694,Pre-hospice/Cons&Ed,Pre-hospice/Palliative Care Services - Consultation and Education
+695,Pre-hospice/IP,Pre-hospice/Palliative Care Services - Inpatient Care
+696,Pre-hospice/Physician,Pre-hospice/Palliative Care Services - Physician Services
+697,Reserved,Reserved
+698,Reserved,Reserved
+699,Pre-hospice/Other,Pre-hospice/Palliative Care Services - Other Pre-hospice/Palliative
+700,Cast Room - General,Cast Room - General Classification
+710,Recovery Room - General,Recovery Room - General Classification
+720,Labor Rm/Delivery - General,Labor Room/Delivery - General Classification
+721,Labor Rm/Delivery - Labor,Labor Room/Delivery - Labor
+722,Labor Rm/Delivery - Delivery,Labor Room/Delivery - Delivery Room
+723,Labor Rm/Delivery - Circumcision,Labor Room/Delivery - Circumcision
+724,Labor Rm/Delivery - Birthing Center,Labor Room/Delivery - Birthing center
+729,Labor Rm/Delivery - Other,Labor Room/Delivery - Other
+730,EKG/ECG - General,EKG/ECG (Electrocardiogram) - General Classification
+731,EKG/ECG - Holter Monitor,EKG/ECG (Electrocardiogram) - Holter Monitor
+732,EKG/ECG - Telemetry,EKG/ECG (Electrocardiogram) - Telemetry
+739,EKG/ECG - Other,EKG/ECG (Electrocardiogram) - Other
+740,EEG - General,EEG (Electroencephalogram) - General Classification
+750,GastroIntestinal Services - General,Gastro-Intestinal (GI) Services - General Classification
+760,Specialty Services - General Classification,Specialty Services - General Classification
+761,Treatment Room,Specialty Services - Treatment Room
+762,Observation Hours,Specialty Services - Observation Hours
+769,Other Specialty Services,Specialty Services - Other
+770,Preventive Care Services - General,Preventive Care Services - General Classification
+771,Preventive - Vaccine Administration,Preventive Care Services - Vaccine Administration
+780,Telemedicine - General,Telemedicine - General Classification
+790,ESWT- General,Extra-Corporeal Shock Wave Therapy - General Classification
+800,IP Renal Dialysis/General,Inpatient Renal Dialysis - General Classification
+801,IP Hemodialysis,Inpatient Renal Dialysis - Hemodialysis
+802,IP Peritoneal Dialysis (not CAPD),Inpatient Renal Dialysis - Peritoneal Dialysis (Non-CAPD)
+803,IP Cont Periton Dialysis (CAPD),Inpatient Renal Dialysis - Continuous Ambulatory Peritoneal Dialysis (CAPD)
+804,IP Cont Cycle Perit Dialysis (CCPD),Inpatient Renal Dialysis - Continuous Cycling Peritoneal Dialysis (CCPD)
+809,IP Dialysis - Other,Inpatient Renal Dialysis - Other
+810,Organ Acq - General,Acquisition of Body Components - General Classification
+811,Organ Acq - Living Donor,Acquisition of Body Components - Living Donor
+812,Organ Acq - Cadaver Donor,Acquisition of Body Components - Cadaver Donor
+813,Organ Acq - Unknown Donor,Acquisition of Body Components - Unknown Donor
+814,Unsuccessful Search,Acquisition of Body Components - Unsuccessful Organ Search - Donor Bank Charges
+815,Stem Cell,Acquisition of Body Components - Stem Cells - Allogeneic (Effective 1/1/17)
+816,Reserved,Reserved
+817,Reserved,Reserved
+819,Organ Acq - Other Donor,Acquisition of Body Components - Other Donor
+820,Hemo/OP or Home/General Classification,Hemodialysis - Outpatient or Home - General Classification
+821,Hemo/OP or Home/Composite,Hemodialysis - Outpatient or Home - Hemodialysis Composite or Other Rate
+822,Hemo/OP or Home/Home/Suppl,Hemodialysis - Outpatient or Home - Home Supplies
+823,Hemo/OP or Home/Home/Equip,Hemodialysis - Outpatient or Home - Home Equipment
+824,Hemo/OP or Home/Home/100%,Hemodialysis - Outpatient or Home - Maintenance 100%
+825,Hemo/OP or Home/Home/SupServ,Hemodialysis - Outpatient or Home - Support Services
+826,Hemo/OP or Home/Additional,Hemodialysis - Outpatient or Home - Hemodiialysis - Additional Hemodialysis Treatments With Medical Justification (Effective TBD)
+829,Hemo/OP or Home/Other OP,Hemodialysis - Outpatient or Home - Other OP Hemodialysis
+830,OP/H Peritoneal Dialysis,Peritoneal Dialysis - Outpatient or Home - General Classification
+831,OP/H Peritoneal Dialysis - Composite,Peritoneal Dialysis - Outpatient or Home - Peritoneal/Composite or Other Rate
+832,Peritoneal Dialysis - Home Supplies,Peritoneal Dialysis - Outpatient or Home - Home Supplies
+833,Peritoneal Dialysis - Home Equipment,Peritoneal Dialysis - Outpatient or Home - Home Equipment
+834,OP/H Peritoneal Dialysis - Maintenance 100%,Peritoneal Dialysis - Outpatient or Home - Maintenance 100%
+835,OP/H Peritoneal Dialysis - Support Services,Peritoneal Dialysis - Outpatient or Home - Support Services
+839,OP/H Peritoneal Dialysis - Other,Peritoneal Dialysis - Outpatient or Home - Other
+840,OP/H CAPD - Gen,Continuous Ambulatory Peritoneal Dialysis (CAPD) - Outpatient or Home - General Classification
+841,OP/H CAPD - Composite/Othr Rate,Continuous Ambulatory Peritoneal Dialysis (CAPD) - Outpatient or Home - CAPD/Composite or Other Rate
+842,OP/H CAPD Home Supplies,Continuous Ambulatory Peritoneal Dialysis (CAPD) - Outpatient or Home - Home Supplies
+843,CAPD OP-Home Equipment,Continuous Ambulatory Peritoneal Dialysis (CAPD) - Outpatient or Home - Home Equipment
+844,CAPD OP-Maintenance/100%,Continuous Ambulatory Peritoneal Dialysis (CAPD) - Outpatient or Home - Maintenance 100%
+845,OP/H CCPD Support Services,Continuous Ambulatory Peritoneal Dialysis (CAPD) - Outpatient or Home - Support Services
+849,CAPD/Home/Other,Continuous Ambulatory Peritoneal Dialysis (CAPD) - Outpatient or Home - Other
+850,CCPD/OP or Home,Continuous Cycling Peritoneal Dialysis (CCPD) - Outpatient or Home - General Classification
+851,CCPD/Composite,Continuous Cycling Peritoneal Dialysis (CCPD) - Outpatient or Home - CCPD/Composite or Other Rate
+852,OP/H CCPD - Home Supplies,Continuous Cycling Peritoneal Dialysis (CCPD) - Outpatient or Home - Home Supplies
+853,OP/H CCPD - Home Equipment,Continuous Cycling Peritoneal Dialysis (CCPD) - Outpatient or Home - Home Equipment
+854,OP/H CCPD - Maintenance 100%,Continuous Cycling Peritoneal Dialysis (CCPD) - Outpatient or Home - Maintenance 100%
+855,CCPD/Home/SuppService,Continuous Cycling Peritoneal Dialysis (CCPD) - Outpatient or Home - Support Services
+859,CCPD/Home/Other,Continuous Cycling Peritoneal Dialysis (CCPD) - Outpatient or Home - Other
+860,Magnetoencephalography (MEG),Magnetoencephalography (MEG) - General Classification
+861,Magnetoencephalography (MEG),Magnetoencephalography (MEG) - MEG
+870,Cell/Gene Therapy - General,Cell/Gene Therapy - General Classification
+871,Cell/Gene Therapy - Collection,Cell/Gene Therapy - Cell Collection
+872,Cell/Gene Therapy - Processing/Storage Prior to Transport,Cell/Gene Therapy - Specialized Biologic Processing and Storage - Prior to Transport
+873,Cell/Gene Therapy - Processing/Storage After Receipt,Cell/Gene Therapy - Storage and Processing after receipt of cells from manufacturer
+874,Cell/Gene Therapy - Infusion,Cell/Gene Therapy - Infusion of Modified Cells
+875,Cell/Gene Therapy - Injection,Cell/Gene Therapy - Injection of Modified Cells
+880,Misc Dialysis - General,Miscellaneous Dialysis - General Classification
+881,Dialysis - Ultrafiltration,Miscellaneous Dialysis - Ultrafiltration
+882,Home Dialysis Aid Visit,Miscellaneous Dialysis - Home Dialysis Aid Visit
+889,Misc Dialysis - Other,Miscellaneous Dialysis - Other
+890,Pharmacy - Reserved (Use 0250 for General Classification),Pharmacy - Reserved (Use 0250 for General Classification)
+891,Pharmacy - Special Processed Drugs,Pharmacy - Special Processed Drugs - FDA Approved Cell Therapy
+892,Pharmacy - Special Processed Drugs,Pharmacy - Special Processed Drugs - FDA Approved Gene Therapy
+893,Pharmacy - Reserved (Extension of 025x and 063x),Pharmacy - Reserved (Extension of 025x and 063x)
+899,Pharmacy - Reserved (Extension of 025x and 063x),Pharmacy - Reserved (Extension of 025x and 063x)
+900,BH Tx - General,Behavior Health Treatments/Services - General Classification
+901,BH - Electroshock,Behavior Health Treatments/Services - Electroshock Treatment
+902,BH - Milieu Therapy,Behavior Health Treatments/Services - Milieu Therapy
+903,BH - Play Therapy,Behavior Health Treatments/Services - Play Therapy
+904,BH - Activity Therapy,Behavior Health Treatments/Services - Activity Therapy
+905,BH- Intnsv OP Psych,Behavior Health Treatments/Services - Intensive Outpatient Services-Psychiatric
+906,BH - Intnsv OP Chem Depend,Behavior Health Treatments/Services - Intensive Outpatient Services-Chemical Dependency
+907,BH - Community Day Tx,Behavior Health Treatments/Services - Community Behavioral Health Program (Day Treatment)
+908,BH - Reserve for Natl Use,BH - Reserve for Natl Use
+909,BH - Reserve for Natl Use,Psychiatric/psychological treatments-other
+910,BH _ Reserve for Natl Use,Psychiatric/psychological services-general classification
+911,BH - Rehab,Behavioral Health Treatment/Services - Rehabilitation
+912,BH - PH,Behavioral Health Treatment/Services - Partial Hospitalization - Less Intensive
+913,BH - PH Intensive,Behavioral Health Treatment/Services - Partial Hospitalization - Intensive
+914,BH - Individual Rx,Behavioral Health Treatment/Services - Individual Therapy
+915,BH - Group Rx,Behavioral Health Treatment/Services - Group Therapy
+916,BH - Family Rx,Behavioral Health Treatment/Services - Family Therapy
+917,BH - Bio Feedback,Behavioral Health Treatment/Services - Bio Feedback
+918,BH - Testing,Behavioral Health Treatment/Services - Testing
+919,BH - Other,Behavioral Health Treatment/Services - Other
+920,Other Dx Services - Gen,Other Diagnostic Services - General Classification
+921,Peripheral Vascular Lab,Other Diagnostic Services - Peripheral Vascular Lab
+922,Electromyogram EMG,Other Diagnostic Services - Electromyogram
+923,Pap Smear,Other Diagnostic Services - Pap Smear
+924,Allergy Test,Other Diagnostic Services - Allergy Test
+925,Pregnancy Test,Other Diagnostic Services - Pregnancy Test
+929,Other Dx Services,Other Diagnostic Services - Other Diagnostic Service
+931,Med Rehab Day Prog - 1/2 Day,Medical Rehabilitation Day Program - Half Day
+932,Med Rehab Day Progr - Full Day,Medical Rehabilitation Day Program - Full Day
+940,Othr Therapeutic Srvc - General,Other Therapeutic Services - General Classification
+941,Recreational Therapy,Other Therapeutic Services - Recreational Therapy
+942,Education/Training,Other Therapeutic Services - Education/Training
+943,Cardiac Rehab,Other Therapeutic Services - Cardiac Rehabilitation
+944,Drug Rehab,Other Therapeutic Services - Drug Rehabilitation
+945,Alcohol Rehab,Other Therapeutic Services - Alcohol Rehabilitation
+946,Cmplx Med Equipm - Routine,Other Therapeutic Services - Complex Medical Equipment - Routine
+947,Cmplx Med Equipm - Ancillary,Other Therapeutic Services - Complex Medical Equipment - Ancillary
+948,Pulmonary Rehabilitation,Other Therapeutic Services - Pulmonary Rehabilitation
+949,Othr Therapeutic Srvc,Other Therapeutic Services - Other
+951,Athletic Training,Other Therapeutic Services - Athletic Training
+952,Kinesiotherapy,Other Therapeutic Services - Kinesiotherapy
+953,Chemical Dependency (Drug and Alcohol),Chemical Dependency (Drug and Alcohol)
+960,Pro Fees - General,Professional Fees - General Classification
+961,Pro Fee - Psychiatric,Professional Fees - Psychiatric
+962,Pro Fees - Ophthalmology,Professional Fees - Ophthalmology
+963,Pro Fees - Anesthesiologist (MD),Professional Fees - Anesthesiologist (MD)
+964,Pro Fees - Anesthetist (CRNA),Professional Fees - Anesthetist (CRNA)
+969,Pro Fees - Other,Professional Fees - Other Professional Fees
+971,Pro Fees - Lab,Professional Fees - Laboratory
+972,Pro Fees - Rad - Diagnostic,Professional Fees - Radiology - Diagnostic
+973,Pro Fees - Rad - Therapeutic,Professional Fees - Radiology - Therapeutic
+974,Pro Fee - Rad - Nuclear Medicine,Professional Fees - Radiology - Nuclear Medicine
+975,Pro Fees - OR,Professional Fees - Operating Room
+976,Pro Fees - Respiratory Therapy,Professional Fees - Respiratory Therapy
+977,Pro Fees - PT,Professional Fees - Physical Therapy
+978,Pro Fees - OT,Professional Fees - Occupational Therapy
+979,Pro Fee - Speech,Professional Fees - Speech Pathology
+981,Pro Fees - ER,Professional Fees - Emergency Room
+982,Pro Fees - OP Services,Professional Fees - Outpatient Services
+983,Pro Fees - Clinic,Professional Fees - Clinic
+984,Pro Fees - MSS,Professional Fees - Medical Social Services
+985,Pro Fees - EKG,Professional Fees - EKG
+986,Pro Fees - EEG,Professional Fees - EEG
+987,Pro Fees - Hospital Visit,Professional Fees - Hospital Visit
+988,Pro Fees - Consult,Professional Fees - Consultation
+989,Pro Fees - Private Duty Nurse,Professional Fees - Private Duty Nurse
+990,Pt Convenience - General,Patient Convenience Items - General Classification
+991,Cafeteria/Guest Tray,Patient Convenience Items - Cafeteria/Guest Tray
+992,Private Linen Service,Patient Convenience Items - Private Linen Service
+993,Telephone,Patient Convenience Items - Telephone/Telecom
+994,TV/Radio,Patient Convenience Items - TV/Radio
+995,Nonpt Room Rent,Patient Convenience Items - Non-patient Room Rentals
+996,Late Discharge,Patient Convenience Items - Late Discharge
+997,Admit Kit,Patient Convenience Items - Admission Kits
+998,Barber/Beauty Shop,Patient Convenience Items - Beauty Shop/Barber
+999,Pt Convenience/Other,Patient Convenience Items - Other
+1000,BH - R&B,Behavioral Health Accommodations - General Classification
+1001,BH - R&B Resid/Psych,Behavioral Health Accommodations - Residential - Psychiatric
+1002,BH - R&B Resid/Chem,Behavioral Health Accommodations - Residential - Chemical Dependency
+1003,BH - R&B/Sup Living,Behavioral Health Accommodations - Supervised Living
+1004,BH - R&B Halfway House,Behavioral Health Accommodations - Halfway House
+1005,BH - R&B Group Home,Behavioral Health Accommodations - Group Home
+1006,BH - Outdoor/Wild,Behavioral Health Accomodations - Outdoor Wilderness Behavioral Health (Effective 7/1/17)
+2101,Acupuncture,Alternative Therapy Services - Acupuncture
+2102,Accupressure,Alternative Therapy Services - Acupressure
+2103,Massage Therapy,Alternative Therapy Services - Massage
+2104,Reflexology,Alternative Therapy Services - Reflexology
+2105,Biofeedback,Alternative Therapy Services - Biofeedback
+2106,Hypnosis Therapy,Alternative Therapy Services - Hypnosis
+2109,Other Alternative Therapy,Alternative Therapy Services - Other
+3101,Adult Day Care - Med/Social - Hrly,"Adult Care - Adult Day Care, Medical and Social - Hourly"
+3102,Adult Day Care - Social - Hrly,"Adult Care - Adult Day Care, Social - Hourly"
+3103,Adult Day Care - Med/Social - Daily,"Adult Care - Adult Day Care, Medical and Social - Daily"
+3104,Adult Day Care - Social - Daily,"Adult Care - Adult Day Care, Social - Daily"
+3105,Adult Foster Care - Daily,Adult Care - Adult Foster Care - Daily
+3109,Adult Care - Other,Adult Care - Other

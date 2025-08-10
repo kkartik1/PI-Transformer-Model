@@ -1,0 +1,147 @@
+modifier,short_description
+22,Unusual procedural services
+23,Unusual anesthesia
+24,Unrelated E&M during postoperative period
+25,"Significant, separate E&M same day"
+26,Professional component
+27,Multiple outpatient E&M same date
+32,Mandated services
+47,Anesthesia by surgeon
+50,Bilateral procedure
+51,Multiple procedures
+52,Reduced services
+53,Discontinued procedure
+54,Surgical care only
+55,Postoperative management only
+56,Preoperative management only
+57,Decision for surgery
+58,Staged/related procedure post-op
+59,Distinct procedural service
+XE,Separate encounter
+XP,Separate practitioner
+XS,Separate organ/structure
+XU,Unusual non-overlapping service
+62,Two surgeons
+63,Procedure on infant < 4 kg
+66,Surgical team
+73,Discontinued before anesthesia
+74,Discontinued after anesthesia
+76,Repeat procedure same physician
+77,Repeat procedure another physician
+78,Return to OR post-op (related)
+79,Unrelated service during post-op
+80,Assistant surgeon
+81,Minimum assistant surgeon
+82,Assistant when resident unavailable
+90,Reference (outside) laboratory
+91,Repeat lab test
+95,Synchronous telemedicine via audio-video
+AS,PA/NP/CNS as assistant surgeon
+GT,Telemedicine via audio-video
+TC,Technical component
+AA,Anesthesia by anesthesiologist
+AD,Physician supervises >4 anesthesia cases
+GC,Resident under teaching physician
+QZ,CRNA without medical direction
+QY,Anesthesiologist directs 1 CRNA
+QK,Anesthesiologist directs 2-4 cases
+QX,CRNA with physician direction
+QS,Monitored anesthesia care
+P1,Anesthesia physical status modifiers
+P2,Anesthesia physical status modifiers
+P3,Anesthesia physical status modifiers
+P4,Anesthesia physical status modifiers
+P5,Anesthesia physical status modifiers
+P6,Anesthesia physical status modifiers
+E1,Eyelids
+E2,Eyelids
+E3,Eyelids
+E4,Eyelids
+FA,Fingers
+F1,Fingers
+F2,Fingers
+F3,Fingers
+F4,Fingers
+F5,Fingers
+F6,Fingers
+F7,Fingers
+F8,Fingers
+F9,Fingers
+TA,Toes
+T1,Toes
+T2,Toes
+T3,Toes
+T4,Toes
+T5,Toes
+T6,Toes
+T7,Toes
+T8,Toes
+T9,Toes
+RT,Right side
+LT,Left side
+LC,Left circumflex artery
+LD,Left anterior descending artery
+LM,Left main artery
+RI,Ramus intermedius artery
+RC,Right coronary artery
+AU,DME code billing
+AV,DME code billing
+AW,DME code billing
+A1,DME code billing
+A2,DME code billing
+A3,DME code billing
+A4,DME code billing
+A5,DME code billing
+A6,DME code billing
+A7,DME code billing
+A8,DME code billing
+A9,DME code billing
+K0,Lower limb prosthetics
+K1,Lower limb prosthetics
+K2,Lower limb prosthetics
+K3,Lower limb prosthetics
+K4,Lower limb prosthetics
+NU,New equipment
+MS,Maintenance/service fee
+RA,Replacement of DME/orthotic item
+RR,Rental
+AH,Clinical psychologist
+AJ,Clinical social worker
+GN,Speech therapy
+GO,Occupational therapy
+GP,Physical therapy
+HN,Bachelor’s degree level
+TD,Registered nurse
+TE,Licensed practical nurse
+TF,Intermediate care (CT-specific)
+TJ,Program group child
+TM,Individualized education program
+TR,IEP services outside school district
+U1,Medicaid level of care 1
+U2,Medicaid level of care 2
+GM,Multiple ambulance patients
+QM,Ambulance by service arrangement
+QN,Ambulance by provider
+D,Diagnostic/therapeutic site
+E,Residential/custodial facility
+G,Hospital-based dialysis
+H,Hospital
+I,Transfer site
+J,Non-hospital dialysis facility
+N,Skilled nursing facility
+P,Physician's office
+R,Residence
+S,Scene of accident
+X,Intermediate stop at physician
+CO,Occupational therapy by assistant
+CQ,Physical therapy by assistant
+SL,State-supplied vaccine
+PM,Postmortem
+CT,Non-compliant CT equipment
+FX,X-ray using film
+PN,Non-excepted off-campus service
+PO,Off-campus outpatient department
+SG,ASC facility service
+V1,Demonstration modifier 1
+V2,Demonstration modifier 2
+V3,Demonstration modifier 3
