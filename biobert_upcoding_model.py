@@ -55,7 +55,7 @@ class MedicalRecordsDataset(Dataset):
 class BioBERTClassifier(nn.Module):
     """BioBERT-based binary classifier for upcoding detection"""
     
-    def __init__(self, model_name='dmis-lab/biobert-base-cased-v1.2', num_classes=2, dropout_rate=0.2):
+    def __init__(self, model_name='nlpie/bio-distilbert-uncased', num_classes=2, dropout_rate=0.2):
         super(BioBERTClassifier, self).__init__()
         
         self.biobert = AutoModel.from_pretrained(model_name)
@@ -71,9 +71,12 @@ class BioBERTClassifier(nn.Module):
     def forward(self, input_ids, attention_mask):
         outputs = self.biobert(input_ids=input_ids, attention_mask=attention_mask)
         
-        # Use [CLS] token representation
-        pooled_output = outputs.pooler_output
-        pooled_output = self.dropout(pooled_output)
+        # Correctly get the [CLS] token's hidden state
+        # It's the first token (index 0) of the last_hidden_state
+        cls_token_hidden_state = outputs.last_hidden_state[:, 0, :]
+        
+        # Apply dropout and classifier
+        pooled_output = self.dropout(cls_token_hidden_state)
         logits = self.classifier(pooled_output)
         
         return logits
@@ -81,7 +84,7 @@ class BioBERTClassifier(nn.Module):
 class UpcodingDetector:
     """Main class for training and evaluating the upcoding detection model"""
     
-    def __init__(self, model_name='dmis-lab/biobert-base-cased-v1.2', max_length=128, learning_rate=5e-5):
+    def __init__(self, model_name='nlpie/bio-distilbert-uncased', max_length=128, learning_rate=5e-5):
         self.model_name = model_name
         self.max_length = max_length
         self.learning_rate = learning_rate
@@ -416,7 +419,7 @@ def estimate_training_time(num_samples, batch_size, epochs, device_type='cpu'):
     """Main training pipeline"""
     
     # CPU-Optimized Configuration
-    MODEL_NAME = 'dmis-lab/biobert-base-cased-v1.2'
+    MODEL_NAME = 'nlpie/bio-distilbert-uncased'
     MAX_LENGTH = 128      # Reduced for CPU efficiency
     BATCH_SIZE = 4        # Small batch size for CPU/RAM constraints
     LEARNING_RATE = 5e-5  # Higher LR for faster convergence on CPU
@@ -432,7 +435,7 @@ def main():
     """Main training pipeline"""
     
     # CPU-Optimized Configuration
-    MODEL_NAME = 'dmis-lab/biobert-base-cased-v1.2'
+    MODEL_NAME = 'nlpie/bio-distilbert-uncased'
     MAX_LENGTH = 128      # Reduced for CPU efficiency
     BATCH_SIZE = 4        # Small batch size for CPU/RAM constraints
     LEARNING_RATE = 5e-5  # Higher LR for faster convergence on CPU
